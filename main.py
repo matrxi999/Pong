@@ -1,4 +1,3 @@
-from turtle import left
 import pygame
 pygame.init()
 
@@ -183,7 +182,7 @@ def main():
             right_paddle.reset()
             left_score = 0
             right_score = 0
-            
+
 
     pygame.quit()
 
